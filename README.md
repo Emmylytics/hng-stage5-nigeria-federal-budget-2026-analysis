@@ -238,4 +238,4 @@ Completed as part of the HNG Data Analytics Internship Program.
 ## 👤 Author  
 Emmanuel Achugo  
 Data Analyst  
-SQL • Python • Data Viz • Machine Learning
+SQL • Python • Data Visualization • Machine Learning
