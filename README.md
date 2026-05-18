@@ -180,10 +180,12 @@ Shows where federal projects are concentrated and which ministries dominate proj
 - Cleaned datasets
 - Published report link
 - Project documentation
+- Analytical reports
 
 ---
 
-```Nigeria-2026-Budget-Analysis/
+```bash
+Nigeria-2026-Budget-Analysis/
 │
 ├── data/
 │   ├── raw_data/
@@ -200,4 +202,19 @@ Shows where federal projects are concentrated and which ministries dominate proj
 ├── docs/
 │   └── project_notes.md
 │
-└── README.md```
+└── README.md
+```
+
+---
+
+## 👥 Team Collaboration
+
+This project was developed collaboratively as part of a group data analytics internship.
+
+Contributions included:
+
+- Data cleaning  
+- Data modeling  
+- DAX development  
+- Dashboard design  
+- Insight generation  
