@@ -177,9 +177,27 @@ Shows where federal projects are concentrated and which ministries dominate proj
 
 ## 🚀 Deliverables
 
-This repository contains:
+- Cleaned datasets
+- Published report link
+- Project documentation
 
-Power BI dashboard (.pbix)
-Cleaned datasets
-Dashboard screenshots
-Documentation files
+---
+
+```Nigeria-2026-Budget-Analysis/
+│
+├── data/
+│   ├── raw_data/
+│   └── cleaned_data/
+│
+├── dashboard/
+│   └── nigeria_2026_budget_dashboard.pbix
+│
+├── screenshots/
+│   ├── page1.png
+│   ├── page2.png
+│   └── page3.png
+│
+├── docs/
+│   └── project_notes.md
+│
+└── README.md```
