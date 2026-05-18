@@ -221,6 +221,14 @@ Contributions included:
 
 ---
 
+## 📚 Dataset Reference
+
+Budget Office of the Federation. (2025). *2026 Federal Government of Nigeria Budget Proposal and Capital Project Allocations*. Federal Government of Nigeria.
+
+Federal Government of Nigeria. (2025). *2026 Appropriation Bill and Budget Allocation Reports*. Abuja, Nigeria.
+
+---
+
 ## 🔗 Acknowledgment
 
 Completed as part of the HNG Data Analytics Internship Program.
@@ -230,4 +238,4 @@ Completed as part of the HNG Data Analytics Internship Program.
 ## 👤 Author  
 Emmanuel Achugo  
 Data Analyst  
-SQL • Python • Power BI • Machine Learning
+SQL • Python • Data Viz • Machine Learning
