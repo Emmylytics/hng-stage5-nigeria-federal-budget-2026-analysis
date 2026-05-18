@@ -218,3 +218,16 @@ Contributions included:
 - DAX development  
 - Dashboard design  
 - Insight generation  
+
+---
+
+## 🔗 Acknowledgment
+
+Completed as part of the HNG Data Analytics Internship Program.
+
+---
+
+## 👤 Author  
+Emmanuel Achugo  
+Data Analyst  
+SQL • Python • Power BI • Machine Learning
