@@ -187,24 +187,19 @@ Shows where federal projects are concentrated and which ministries dominate proj
 ```bash
 Nigeria-2026-Budget-Analysis/
 │
-├── data/
-│   ├── raw_data/
-│   └── cleaned_data/
+├── cleaned_datasets/
+│   ├── budget_summary.csv
+│   ├── mda_budget.csv
+│   └── capital_projects.csv
 │
 ├── dashboard/
-│   └── nigeria_2026_budget_dashboard.pbix
+│   └── dashboard_preview.png
 │
-├── screenshots/
-│   ├── page1.png
-│   ├── page2.png
-│   └── page3.png
-│
-├── docs/
-│   └── project_notes.md
+├── reports/
+│   └── nigeria_2026_budget_analysis.pdf
 │
 └── README.md
 ```
-
 ---
 
 ## 👥 Team Collaboration
